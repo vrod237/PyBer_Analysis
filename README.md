@@ -1,17 +1,14 @@
 # PyBer_Analysis
 
 ## Purpose/Reason
-#### The purpose of this Data Analysis is to create a summary DataFrame of the key metrics involved for the ride-sharing data by city type, and by creating a multi-line graph that shows the total fares of each week by each city type. In addition, this will include a written report on the results of the new analysis and future recommendations. I analyzed the data by reviewing the 
+#### The purpose of this Data Analysis is to create a summary DataFrame of the key metrics involved for the ride-sharing data by city type, and by creating a multi-line graph that shows the total fares of each week by each city type. In addition, this will include a written report on the results of the new analysis and future recommendations. I analyzed the data by reviewing the information of each City and City Type and then created a new dataframe by City Type and got the Total Number of Drivers, Total Rides, Total Fares, Average Fare per Ride and Average Fare per Driver, for each City Type of Urban, Suburban and Rural. By reviewing the dataframe below, the information tells us that the Urban City Type had the most amount of drivers, rides and total fares on the flip side; Rural City Type had the least amount of drivers, rides and total fares. In the Total Fare by City Type graph, the Urban line (yellow) shows the highest sum of fares, Rural line (blue) shows the least sum of fares, which reflects what we observed earlier in the dataframe.
 
 
-
-How did you analyze the data to create the technical deliverables?
-
-What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results. 
-
+#### Summary Data Frame
+![Summary DF](https://github.com/vrod237/PyBer_Analysis/blob/master/summary_df.png)
+#### Total Fare by City Type Graph
 ![Challenge Chart](https://github.com/vrod237/PyBer_Analysis/blob/master/Challenge.png)
 
-![Summary DF](https://github.com/vrod237/PyBer_Analysis/blob/master/summary_df.png)
 
 
 
