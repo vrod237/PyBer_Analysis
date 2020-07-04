@@ -12,14 +12,7 @@
 
 
 
-#### I came across issues 
-
-
-
-
-    What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
-    Explain how you overcame any challenges or difficulties, and include what technical analysis you use to overcome the challenges or difficulties.
-
+#### I came across issues with the techincal analysis since I was not familiar with the process of creating graphs and using pivot tables in Python. But I was able to connect all the dots after reading a few articles after a few quick Google searches. Google is a huge help, especially when it comes to coding, there's so much information out there and there's a good chance the someone has already asked a question you may have. 
 
 
 #### I would recommend that 
