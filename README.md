@@ -9,6 +9,6 @@ How did you analyze the data to create the technical deliverables?
 
 What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results. 
 
-<https://github.com/vrod237/PyBer_Analysis/blob/master/Challenge.png>
+![Challenge Chart](https://github.com/vrod237/PyBer_Analysis/blob/master/Challenge.png)
 
-<https://github.com/vrod237/PyBer_Analysis/blob/master/summary_df.png>
+![Summary DF](https://github.com/vrod237/PyBer_Analysis/blob/master/summary_df.png)
