@@ -10,9 +10,7 @@
 #### I came across issues with the techincal analysis since I was not familiar with the process of creating graphs and using pivot tables in Python. But I was able to connect all the dots after reading a few articles after a few quick Google searches. Google is a huge help, especially when it comes to coding, there's so much information out there and there's a good chance the someone has already asked a question you may have. 
 
 
-#### I would recommend that 
+#### I would recommend that future data include population size of each City so we can get a sum of the population per City Type and see what trends we can discover regarding the different sizes. For example, Rural areas have the highest average fare per ride and driver, this is likely due to individuals in Rural areas having to take longer rides to get to their destination since they don't live in a major city. To further prove that, it would help to have pick up time and drop off time added in future data sets. In attaining this data, we can possibly figure out ways to shorten drive times which would then allow more rides to occur which would help maximize future profits. We can subtract the dropoff time from the pickup time to get the drive time which will probably vary by City Type, we can strategically place drivers in areas nearby locations where most pickups occur which will reduce the drive time to pick up, which can be another data type that we can look into add for furture datasets.
 
 
-    Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
-    Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
-    What technical steps would you take to perform the additional analyses?
+    
